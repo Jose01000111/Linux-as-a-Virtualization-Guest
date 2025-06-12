@@ -2,6 +2,16 @@
 
 ### In this lab, I explored how Linux behaves as a virtualization guest 🐧 — specifically using CentOS on Hyper-V 💾 and an AWS EC2 instance ☁️. Understanding these environments helps me configure and manage Linux systems in virtualized and cloud-native infrastructure. 🧑‍💻🔧
 
+I’ve included some helpful links to guide you through the lab and for studying afterward:
+
+[LPIC Exam Objective 102.6](https://www.lpi.org/our-certifications/exam-101-102-objectives/#102.6_Linux_as_a_virtualization_guest)
+
+[102.6 NOTES]()
+
+[102.6 LAB]()
+
+---
+
 ## 1️⃣ 🔍 Detect the Virtualization Environment
 
 🔹 Command:

@@ -53,7 +53,17 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 🔹 If containers were installed, I could view them with:
 
+![5YNfhBR](https://github.com/user-attachments/assets/a5e93dcb-47ce-4ee8-8095-32801998d635)
+
+![LT1Esih](https://github.com/user-attachments/assets/9db0ca31-93b6-4ada-ae6e-13d9be775b3c)
 
 ## 💡 What I Learned
 In this lab, I learned how to detect, inspect, and manage CentOS as a virtualization gues
 t in Hyper-V.
+
+
+
+
+
+
+

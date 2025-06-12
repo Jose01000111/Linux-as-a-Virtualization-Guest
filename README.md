@@ -7,9 +7,9 @@ I’ve included some helpful links to guide you through the lab and for studying
 
 [LPIC Exam Objective 102.6](https://www.lpi.org/our-certifications/exam-101-102-objectives/#102.6_Linux_as_a_virtualization_guest)
 
-[102.6 NOTES]()
+[102.6 NOTES](https://1drv.ms/w/c/354f1c8d534fbced/Ee6eVvuo-qFLrEGn088N5YoBk0cUzsyNJQfGiHcyAy6qeA?e=5bnqeJ)
 
-[102.6 LAB]()
+[102.6 LAB](https://1drv.ms/w/c/354f1c8d534fbced/EW0dIcwA_5BDunfZOg3nE74BzW67816K2siHqYrIIQbbtg?e=YdCQKu)
 
 ---
 
